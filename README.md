@@ -36,6 +36,12 @@ Full-stack platform providing school services and administration tools.
 - Developed collaboratively using Agile and Git-based workflow
 - Currently in development with planned live testing
 
+### AI code vulnerability detector - React, Python, JS, FastAPI, Machine Learning
+- Built a web application that analyzes user-provided code snippets to detect security vulnerabilities and classify attack types
+- Implemented machine learning models trained on labelled vulnerable code datasets to automate threat identification
+- Designed an interactive React-based user interface with real-time feedback and explanatory vulnerability reports
+- Integrated FastAPI backend for model inference and scalable request handling
+
 ---
 
 ##  Education
