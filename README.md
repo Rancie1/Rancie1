@@ -57,6 +57,7 @@ Notable units: Software Architecture, Intelligent Systems, Cloud Computing, Data
 - Building machine learning components for traffic prediction
 - Expanding backend/API functionality for school management platform
 - Improving cloud deployment and CI/CD skills
+- My passion project Deckd focused on building a platform for users to share their love for DJ sets
 
 ---
 
